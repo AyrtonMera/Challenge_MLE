@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+missingno
+sklearn
+pip_system_certs
+pycaret
